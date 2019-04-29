@@ -14,3 +14,44 @@ body {
     background-color: #f2f2f2;
     font-family: 'Montserrat', sans-serif;
 }
+.tm-name {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.79em !important;
+    margin-top: 90px;
+    max-width: 100vw;
+    text-align: center;
+    font-size: calc(1vw + 1vh + .5vmin);
+}
+
+.tm-container {
+    display: flex;
+    justify-content: center;
+    max-width: 70vw;
+    margin: 0 auto;
+    padding: 4.7px;
+}
+
+.tm-container p {
+    font-size: calc(1vw + 1vh + .5vmin);
+}
+
+.tm-about-main {
+    display: flex;
+    justify-content: center;
+    max-width: 70vw;
+    margin: 0 auto;
+    padding: 4.7px;
+}
+
+.show {
+    display: flex;
+    justify-content: center;
+    max-width: 70vw;
+    margin: 0 auto;
+    padding: 4.7px;
+    font-size: calc(1vw + 1vh + .5vmin);
+}
+
+.btn-info {
+    background-color: #0080ff !important;
+}

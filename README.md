@@ -1,6 +1,3 @@
-<img src="Screenshot.png"
-    alt="Markdown Monster icon"
-    style="float: left; margin-right: 10px;" />
 # TRIANGLE TRACKER
 #### This is TRACK-IT, a project to track triangles.
 #### By **KENNETH MUCHIRI**

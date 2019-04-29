@@ -1,6 +1,6 @@
 ![Screenshot](Screenshot.png)
 # TRIANGLE TRACKER
-#### This is TRACK-IT, a project to track triangles. from a user and output whether or not it is a Triangle. It takes it a step further and tells what kind of triangle it is, Equilateral, Isosceles or Scalene. ::
+#### This is TRACK-IT, a project to track triangles.
 #### By **KENNETH MUCHIRI**
 
 ## Description
